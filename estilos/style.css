@@ -63,12 +63,16 @@ div#formulario > p {
 }
 
 form > div.campo {
-    background-color: #471667;
+    background-color: #865ba3;
     display: block;
     width: 100%;
     height: 40px;
     border-radius: 5px;
     margin: 5px 0px;
+}
+
+div.campo > i {
+    color: rgb(0, 0, 0);
 }
 
 div.campo > label {
